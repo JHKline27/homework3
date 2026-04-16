@@ -1,3 +1,5 @@
+[![Portfolio Pipeline](https://github.com/JHKline27/homework3/actions/workflows/pipeline.yml/badge.svg?branch=main)](https://github.com/JHKline27/homework3/actions/workflows/pipeline.yml)
+
 # Portfolio Template
 
 A starter repo for building and validating a personal portfolio webpage.
